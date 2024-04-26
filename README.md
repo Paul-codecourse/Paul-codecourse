@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paul-codecourse
-- 👀 I’m interested in Koha and front end development and I’m currently learning or starting to learn about front end development
-- 💞️ I’m looking to collaborate on ... ummm not quite sure yet
+- 👀 I’m interested in Koha and front end development. I have completed a Front End Bootcamp 
+- 💞️ I’m looking to collaborate on drone related apps and ... ummm not quite sure what else yet
 - 📫 How to reach me ... Here!
 
 <!---
